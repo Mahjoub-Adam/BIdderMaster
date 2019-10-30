@@ -1,0 +1,1 @@
+# Make a user name admin with the password given in .env file(in backend folder),make some categories,replace reacts' ssl with the ssl given in the backend/security folder,reinstall node-modules and the program is ready to run.Further instructions in the pdf

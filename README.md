@@ -3,4 +3,4 @@
 
 ### Collaborators 
 
-[DDDimitrisPalligkinis](https://github.com/DDDimitrisPalligkinis) & [zamanfouu](https://github.com/Mahjoub-Adam)
+[DDDimitrisPalligkinis](https://github.com/DDDimitrisPalligkinis) & [Mahjoub-Adam](https://github.com/Mahjoub-Adam)
